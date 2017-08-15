@@ -1,2 +1,2 @@
 # Facial
-Facial recognition algorithms and python scripts
+Face recognition algorithms and python scripts
